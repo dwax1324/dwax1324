@@ -26,9 +26,12 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
 <div align="center">
 
 
+
+
+
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwax1324&theme=dracula&langs_count=6&card_width=340&layout=compact" alt="Most Used Languages"/> 
-<img src="http://mazassumnida.wtf/api/generate_badge?boj=dwax1324" alt="Most Used Languages"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=dwax1324&hide_rank=true&hide=stars,issues&show=reviews&show_icons=true&theme=transparent"alt ="https://github.com/anuraghazra/github-readme-stats"/>
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=dwax1324" alt="solvedac"/> 
 </div>
 
 <br>
