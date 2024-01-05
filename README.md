@@ -31,7 +31,9 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=dwax1324&hide_rank=true&hide=stars,issues&show=reviews&show_icons=true&theme=transparent"alt ="https://github.com/anuraghazra/github-readme-stats"/>
+<a href="solvedac/user/dwax1324">
 <img src="http://mazassumnida.wtf/api/generate_badge?boj=dwax1324" alt="solvedac"/> 
+</a>
 </div>
 
 <br>
